@@ -4,6 +4,7 @@ public class Contenido {
 
 	private String id;
 	private String titulo;
+	private String calidadString;
 
 	public Contenido() {
 	}
@@ -12,5 +13,5 @@ public class Contenido {
 		this.id = id;
 		this.titulo = titulo;
 	}
-	
+
 }
